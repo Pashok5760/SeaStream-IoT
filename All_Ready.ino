@@ -31,7 +31,7 @@ Adafruit_BME280 bme; // I2C
 
          //Edit here pin Reset
 bool  Reset = 0;
-const char* ssid = "ESP32_Team1";     // Edit here AP name
+const char* ssid = "ESP32";     // Edit here AP name
 const char* password = "12345678";   //Edit here AP password
   //Edit here AP website IP
 
